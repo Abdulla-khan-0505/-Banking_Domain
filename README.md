@@ -198,7 +198,7 @@ Banking-Domain-Analytics
 - Matplotlib
 - Seaborn
 # 📸 Dashboard  Screenshot
-https://github.com/Abdulla-khan-0505/-Banking_Domain/blob/main/Banking.png
+![Executive Dashboard](Dashboard_Screenshots/Banking.png)
 
 📧 Email: abdullakhan0505@gmail.com
 
