@@ -117,6 +117,11 @@ Designed an interactive dashboard containing:
 - 🎯 Interactive Filters & Slicers
 
 ---
+## 🎥 Project Demonstration
+
+Watch the complete project walkthrough here:
+
+https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 
 # 📌 Key Insights
 
