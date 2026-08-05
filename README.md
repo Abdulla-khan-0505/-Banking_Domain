@@ -121,7 +121,7 @@ Designed an interactive dashboard containing:
 
 Watch the complete project walkthrough here:
 
-https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+https://github.com/Abdulla-khan-0505/-Banking_Domain/blob/main/Banking%20powerBi%20video.mp4
 
 # 📌 Key Insights
 
