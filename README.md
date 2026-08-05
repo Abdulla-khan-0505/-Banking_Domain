@@ -197,7 +197,8 @@ Banking-Domain-Analytics
 - NumPy
 - Matplotlib
 - Seaborn
-# 📸 Dashboard Preview
+# 📸 Dashboard  Screenshot
+https://github.com/Abdulla-khan-0505/-Banking_Domain/blob/main/Banking.png
 
 📧 Email: abdullakhan0505@gmail.com
 
